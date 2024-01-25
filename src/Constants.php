@@ -37,12 +37,12 @@ class TextCase
     /**
      * Upper case
      */
-    const C_UPPER = 0;
+    const C_UPPER = "Upper";
 
     /**
      * Mixed Case
      */
-    const C_MIXED = 1;
+    const C_MIXED = "Mixed";
 
 }
 
